@@ -2,7 +2,7 @@
 projekt_1.py: první projekt do Engeto Online Python Akademie
 author: Anetta Martináková
 email: martinakova.anetta@gmail.com
-discord: Anetta M.#5044
+discord: Anetta M.#5044 (or originally known as zrzavahlava#5044)
 """
 
 with open('texts.txt', 'r') as file:
